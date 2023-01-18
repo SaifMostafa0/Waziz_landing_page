@@ -1379,7 +1379,7 @@ header.card-header {
 #13. Blog
 ============================================================================= */
 #blog {
-    background: linear-gradient(0deg, #f8f9fb 35%, transparent 100%);
+    background-color: #ededed;
 }
 .blog-item {
     margin: 35px 5px;
