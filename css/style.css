@@ -133,7 +133,7 @@ ol {
 #3. Common Style (Pagination, Main Titles)
 ============================================================================= */
 .section-block{
-    padding: 80px 0;
+    padding: 0px 0;
 }
 .section-header{
     margin-bottom: 80px;
@@ -586,7 +586,7 @@ ul.list-checked li i {
 .start_home.demo1:before, .start_home.demo2:before {
     position: absolute;
     content: '';
-    background: linear-gradient(to right, rgba(144, 30, 193, 0.90) 0%, rgb(107, 73, 238, 0.90) 51%, rgba(144, 30, 193, 0.90) 100%);
+    
     background-size: 200% auto;
     width: 100%;
     height: 100%;
@@ -701,7 +701,7 @@ ul.list-checked li i {
 }
 /************ 5.2 Start Home Demo2  *******************/
 .start_home.demo2 {
-    background: url(../images/start-home-bg2.jpg);
+    
     height: 750px;
 }
 .start-home-img {
