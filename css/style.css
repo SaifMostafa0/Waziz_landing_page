@@ -95,7 +95,7 @@ a{
     transition: all 0.3s ease-in-out;
     text-decoration: none;
     outline: none;
-    color: #901ec1;
+    color: #bb3571;
 }
 a:hover{
     text-decoration: none;
@@ -228,7 +228,7 @@ ol {
     transition: all 0.3s ease-in-out;
 }
 .owl-dot.active span, .start-home-slider .owl-dot.active span {
-    background: #901ec1;
+    background: #bb3571;
     width: 25px;
 }
 .owl-nav .owl-prev, .owl-nav .owl-next {
@@ -236,7 +236,7 @@ ol {
     border: none;
     border-radius: 100%;
     box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0);
-    color: #901ec1 !important;
+    color: #bb3571 !important;
     height: 40px;
     line-height: 3;
     margin: 0 5px;
@@ -285,12 +285,12 @@ ol {
     background-position: right center !important;
 }
 .theme-btn-sec{
-    color: #901ec1;
+    color: #bb3571;
     background: rgba(144, 30, 193, 0.07);
     transition: all 500ms;
 }
 .theme-btn-sec:hover {
-    background: linear-gradient(to right, #901ec1 0%, #7450fe 51%, #901ec1 100%);
+    background: linear-gradient(to right, #bb3571 0%, #bb3571 51%, #bb3571 100%);
     background-size: 200% auto;
     color: #fff;
 }
@@ -314,7 +314,7 @@ ol {
     outline: 0;
     outline: none;
     box-shadow: none;
-    border-color: #901ec1;
+    border-color: #bb3571;
 }
 textarea{
     resize: none;
@@ -327,7 +327,7 @@ textarea{
     border: none;
 }
 .page-item:first-child .page-link:focus, .page-item:last-child .page-link:focus{
-    color: #901ec1;
+    color: #bb3571;
     background: rgba(144, 30, 193, 0.07);
 }
 .page-item .page-link {
@@ -347,7 +347,7 @@ textarea{
     margin-right: 0.25rem;
 }
 .page-item .page-link:hover {
-    color: #901ec1;
+    color: #bb3571;
     background: rgba(144, 30, 193, 0.07);
 }
 .page-item.active .page-link {
@@ -371,7 +371,7 @@ ul.list-checked li{
     line-height: 30px;
 }
 ul.list-checked li i {
-    color: #901ec1;
+    color: #bb3571;
     background: rgba(144, 30, 193, 0.07);
     border-color: transparent;
     width: 30px;
@@ -389,7 +389,7 @@ ul.list-checked li i {
 #back-to-top .top {
     position: fixed;
     color: #ffffff;
-    background-image: linear-gradient(to right, #901ec1 0%, #7450fe 51%, #901ec1 100%);
+    background-image: linear-gradient(to right, #bb3571 0%, #bb3571 51%, #bb3571 100%);
     background-size: 200% auto;
     bottom: 45px;
     right: 45px;
@@ -544,7 +544,7 @@ ul.list-checked li i {
 }
 .navbar-nav .dropdown-menu a:hover{
     color: #fff;
-    background-image: linear-gradient(to right, #901ec1 0%, #7450fe 51%, #901ec1 100%);
+    background-image: linear-gradient(to right, #bb3571 0%, #bb3571 51%, #bb3571 100%);
     -webkit-transition: all 500ms;
     transition: all 500ms;
     background-size: 200% auto;
@@ -587,7 +587,7 @@ ul.list-checked li i {
 .start_home.demo1:before, .start_home.demo2:before {
     position: absolute;
     content: '';
-    
+    background-color: #bb3571;
     background-size: 200% auto;
     width: 100%;
     height: 100%;
@@ -686,10 +686,10 @@ ul.list-checked li i {
 .app-button a:hover {
     background: #fff;
     border: 2px solid transparent;
-    color: #911ec2;
+    color: #bb3571;
 }
 .app-button a:hover p, .app-button a:hover h3{
-    color: #911ec2; 
+    color: #bb3571; 
 }
 .start-home-img img{
     animation: floating2 7s infinite;
@@ -767,12 +767,12 @@ ul.list-checked li i {
 
 /**************  5.3 Start Home Demo3 ***********/
 .start_home.demo3 .start-home-content h1{
-    background: #901ec1;
-    background: -moz-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: -webkit-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7450fe', endColorstr='#901ec1',GradientType=1 );
+    background: #bb3571;
+    background: -moz-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: -webkit-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bb3571', endColorstr='#bb3571',GradientType=1 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -783,16 +783,16 @@ ul.list-checked li i {
     color: #fff; 
 }
 .start_home.demo3 .start-home-content .app-button a {
-    border: 2px solid #901ec1;
-    background-color: #901ec1;
+    border: 2px solid #bb3571;
+    background-color: #bb3571;
 }
 .start_home.demo3 .start-home-content .app-button a:hover {
     background: #fff;
-    border: 2px solid #911ec2;
-    color: #911ec2;
+    border: 2px solid #bb3571;
+    color: #bb3571;
 }
 .start_home.demo3 .start-home-content .app-button a:hover p {
-    color: #911ec2;
+    color: #bb3571;
 }
 .start_home.demo3 .start-home-content span{
     color: #00c9a7;
@@ -1095,12 +1095,12 @@ ul.list-checked li i {
     border-radius: 0;
 }
 .features-style3 .feature-icon i:before{
-    background: #901ec1;
-    background: -moz-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: -webkit-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7450fe', endColorstr='#901ec1',GradientType=1 );
+    background: #bb3571;
+    background: -moz-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: -webkit-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bb3571', endColorstr='#bb3571',GradientType=1 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 60px;
@@ -1291,7 +1291,7 @@ ul.list-checked li i {
 }
 .pricing-btns-group li a.active, .pricing-btns-group li a.active:hover{
     color: #fff;
-    background: linear-gradient(to right, #901ec1 0%, #7450fe 51%, #901ec1 100%);
+    background: linear-gradient(to right, #bb3571 0%, #bb3571 51%, #bb3571 100%);
     background-size: 200% auto;
     border-color: transparent;
 }
@@ -1341,7 +1341,7 @@ ul.list-checked li i {
     margin-bottom: 20px;
 }
 .card-body ul li span {
-    color: #901ec1;
+    color: #bb3571;
     background: rgba(144, 30, 193, 0.07);
     border-color: transparent;
     width: 25px;
@@ -1356,14 +1356,14 @@ ul.list-checked li i {
 
 }
 .card-body .btn  {
-    color: #901ec1;
+    color: #bb3571;
     background: rgba(144, 30, 193, 0.07);
     padding: 12px 10px;
     margin-top: 30px;
     transition: all 500ms;
 }
 .card-body .btn:hover{
-    background: linear-gradient(to right, #901ec1 0%, #7450fe 51%, #901ec1 100%);
+    background: linear-gradient(to right, #bb3571 0%, #bb3571 51%, #bb3571 100%);
     background-size: 200% auto;
     color: #fff;
 }
@@ -1380,7 +1380,7 @@ header.card-header {
 #13. Blog
 ============================================================================= */
 #blog {
-    background-color: #ededed;
+
 }
 .blog-item {
     margin: 35px 5px;
@@ -1542,14 +1542,14 @@ header.card-header {
 .author-name button {
     background: rgba(144, 30, 193, 0.07);
     box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0);
-    color: #901ec1;
+    color: #bb3571;
     transition: all 0.2s ease-in-out;
     padding: 2px 10px;
 }
 .author-name button:hover {
     -webkit-transform: translateY(-3px);
     transform: translateY(-3px);
-    background: #901ec1;
+    background: #bb3571;
     color: #fff;
     box-shadow: 0 4px 11px rgba(144, 30, 193, 0.27);
 }
@@ -1573,7 +1573,7 @@ header.card-header {
 }
 .share-buttons a:hover, .post-operations a:hover {
     color: #fff;
-    background: #901ec1;
+    background: #bb3571;
     box-shadow: 0 4px 11px rgba(119, 131, 143, 0.35);
 }
 .blog-details img{
@@ -1624,7 +1624,7 @@ header.card-header {
 .post-tags .btn:hover {
     -webkit-transform: translateY(-3px);
     transform: translateY(-3px);
-    background: #901ec1;
+    background: #bb3571;
     color: #fff;
     box-shadow: 0 4px 11px rgba(144, 30, 193, 0.27);
 }
@@ -1707,7 +1707,7 @@ header.card-header {
     margin-right: .5rem!important;
 }
 .widget .list-group .list-group-item:hover{
-    color: #901ec1;
+    color: #bb3571;
 }
 .widget article{
     margin-bottom: 25px;
@@ -1757,7 +1757,7 @@ header.card-header {
     margin-bottom: 15px;
 }
 #faqs .card-header{
-    background-image: linear-gradient(to right, #901ec1 0%, #7450fe 51%, #901ec1 100%);
+    background-image: linear-gradient(to right, #bb3571 0%, #bb3571 51%, #bb3571 100%);
     text-align: left;
     padding: 13px 25px;
     border-radius: 30px !important;
@@ -1869,7 +1869,7 @@ header.card-header {
     background: rgba(144, 30, 193, 0.07) !important;
     border-radius: 100%;
     box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0);
-    color: #901ec1 !important;
+    color: #bb3571 !important;
     height: 45px;
     width: 45px;
     line-height: 45px;
@@ -1991,7 +1991,7 @@ footer p{
     transition: all 500ms;
 }
 .footer-social-links a:hover {
-    color: #901ec1;
+    color: #bb3571;
     background: #fff;
 }
 .footer-links li a {
@@ -2069,7 +2069,7 @@ footer p{
 ============================================================================= */
 #contact{
     position: relative;
-    background-color: #ededed;
+    padding-right: 60px;
 }
 #contact .section-header-style2 {
     margin-bottom: 40px;
@@ -2342,9 +2342,9 @@ footer p{
     position: relative;
     box-shadow: 0px 0px 29px 6px rgba(154, 161, 171, 0.18);
     -webkit-box-shadow: 0px 0px 29px 6px rgba(154, 161, 171, 0.18);
-
     padding: 60px 50px;
     margin: 0 60px;
+    margin-top: 35px;
     border-radius: 30px;
 }
 .contact-shape img{
@@ -2453,12 +2453,12 @@ footer p{
     top: 13px;
 }
 .faq-search button i {
-    background: #901ec1;
-    background: -moz-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: -webkit-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7450fe', endColorstr='#901ec1',GradientType=1 );
+    background: #bb3571;
+    background: -moz-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: -webkit-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bb3571', endColorstr='#bb3571',GradientType=1 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding: 10px;
@@ -2485,12 +2485,12 @@ footer p{
 }
 .faq-icon i:before{
     font-size: 60px;
-    background: #901ec1;
-    background: -moz-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: -webkit-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7450fe', endColorstr='#901ec1',GradientType=1 );
+    background: #bb3571;
+    background: -moz-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: -webkit-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bb3571', endColorstr='#bb3571',GradientType=1 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-left: 0; 
@@ -2568,7 +2568,7 @@ footer p{
 .login-side-des{
     height: 100vh;
     overflow: hidden;
-    background-image: linear-gradient(180deg, #901ec1 0%, #7450fe 100%);
+    background-image: linear-gradient(180deg, #bb3571 0%, #bb3571 100%);
 }
 .login-side-block{
     padding: 30px 0;
@@ -2621,7 +2621,7 @@ footer p{
     margin-bottom: 40px;
 }
 .login-form-head h2{
-    background: linear-gradient(to right, #901ec1 0%, #7450fe 51%, #901ec1 100%);
+    background: linear-gradient(to right, #bb3571 0%, #bb3571 51%, #bb3571 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 500;
@@ -2647,7 +2647,7 @@ footer p{
     font-weight: 400 !important;
 }
 .link-muted:hover {
-    color: #901ec1;
+    color: #bb3571;
 }
 .login-form .form-control{
     border-radius: 0;
@@ -2709,8 +2709,8 @@ footer p{
 .checkboxes input[type=checkbox]:checked+label:before, .checkboxes input[type=radio]:checked+label:before {
     content: "\e64c";
     background-color: transparent;
-    border-color: #901ec1;
-    color: #901ec1;
+    border-color: #bb3571;
+    color: #bb3571;
 } 
 .res-logo{
     display: none;
@@ -2750,12 +2750,12 @@ footer p{
     right: 0;
 }
 .comin-soon-content h1{
-    background: #901ec1;
-    background: -moz-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: -webkit-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7450fe', endColorstr='#901ec1',GradientType=1 );
+    background: #bb3571;
+    background: -moz-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: -webkit-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bb3571', endColorstr='#bb3571',GradientType=1 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 500;
@@ -2773,12 +2773,12 @@ footer p{
 }
 .counter-item span{
     font-weight: 600;
-    background: #901ec1;
-    background: -moz-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: -webkit-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7450fe', endColorstr='#901ec1',GradientType=1 );
+    background: #bb3571;
+    background: -moz-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: -webkit-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bb3571', endColorstr='#bb3571',GradientType=1 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 30px;
@@ -2838,15 +2838,15 @@ footer p{
         border-radius: 5px;
     }
     .home-demo3 .navbar-toggler-icon{
-        background: #901ec1;
-        background: -moz-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-        background: -webkit-linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-        background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-        background: linear-gradient(to right, #901ec1 2%, #7450fe 82%);
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7450fe', endColorstr='#901ec1',GradientType=1 );
+        background: #bb3571;
+        background: -moz-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+        background: -webkit-linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+        background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+        background: linear-gradient(to right, #bb3571 2%, #bb3571 82%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bb3571', endColorstr='#bb3571',GradientType=1 );
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
-        border: 1px solid #901ec1;
+        border: 1px solid #bb3571;
     }
     .navbar-toggler:focus, .navbar-toggler:hover {
         outline: none;
@@ -2894,7 +2894,6 @@ footer p{
     }
     .section-block {
         padding: 60px 0;
-        background-color: #ededed;
     }
     .section-header {
         margin-bottom: 60px;
