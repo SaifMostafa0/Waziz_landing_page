@@ -57,7 +57,7 @@ Version: 1.0
 ============================================================================= */
 
 /******  Google fonts ******/
-@import url('https://fonts.googleapis.com/css?family=Tajawal');
+@import url('https://fonts.googleapis.com/css?family=Jomhuria');
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
 @import url(https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700);
 
@@ -72,8 +72,8 @@ Version: 1.0
 }
 
 body {
-    font-family: 'Tajawal', sans-serif;
-    font-size: 14px;
+    font-family: 'Jomhuria', sans-serif;
+    font-size: 21px;
     direction: rtl;
     text-align: right;
 }
@@ -267,13 +267,13 @@ ol {
 .review_nav span:hover, .review_nav span:focus{
     outline: none;
     color: #fff !important;
-    background: linear-gradient(to right top, rgba(144, 30, 193, 1), rgba(134, 33, 198, 1), rgba(123, 37, 204, 1), rgba(109, 40, 210, 1), rgba(93, 44, 215, 1)) !important;
+    background: linear-gradient(to right top, #bb3571, #bb3571, #bb3571, #bb3571, #bb3571) !important;
 }
 .owl-nav .owl-prev span, .owl-nav .owl-next span {
     font-size: 12px;
 }
 .theme-btn{
-    background-image:  linear-gradient(to right, #901ec1 0%, #7450fe 51%, #901ec1 100%);
+    background-image:  linear-gradient(to right, #bb3571 0%, #bb3571 51%, #bb3571 100%);
     -webkit-transition: all 500ms;
     transition: all 500ms;
     background-size: 200% auto;
@@ -461,8 +461,9 @@ ul.list-checked li i {
     margin-right: auto;
 }
 .header-area.sticky .navbar{
-    background-image: linear-gradient(to right, rgba(144, 30, 193, 0.90) 0%, rgba(116, 80, 254, 0.90) 51%, rgba(144, 30, 193, 0.90) 100%);
+    background-image: linear-gradient(180deg rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 51%, rgba(255, 255, 255, 0.9) 100%);
     background-size: 200% auto;
+    box-shadow: #ffffff;
 }
 .site-logo a{
     color: #fff;
@@ -483,7 +484,7 @@ ul.list-checked li i {
     transition: all .2s ease 0s;
     padding: 0;
     display: inline-block;
-    font-size: 13px;
+    font-size: 20px;
 }
 .navbar-nav .dropdown-menu{
     box-shadow: 0 15px 30px rgba(22,28,45,.15);
@@ -1416,7 +1417,7 @@ header.card-header {
     border-radius: 15px;
 }
 .article-img::after {
-    background: rgba(0, 0, 0, 0.4);
+    /*background: rgba(0, 0, 0, 0.4);*/
     transition: all 0.5s ease-in-out;
     content: "";
     height: 100%;
@@ -2068,6 +2069,7 @@ footer p{
 ============================================================================= */
 #contact{
     position: relative;
+    background-color: #ededed;
 }
 #contact .section-header-style2 {
     margin-bottom: 40px;
@@ -2365,7 +2367,7 @@ footer p{
     margin-bottom: 25px;
 }
 .contact-block h4 {
-    font-size: 15px;
+    
     border-bottom: 1px solid #eee;
     padding-bottom: 10px;
     margin-bottom: 15px;
@@ -2378,8 +2380,7 @@ footer p{
     position: absolute;
     right: 0;
     top: -7px;
-    background: #3264f5;
-    background: linear-gradient(to right, #901ec1 0%, #7450fe 51%, #901ec1 100%);
+    background-color: #bb3571;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -2878,6 +2879,7 @@ footer p{
     }
     .owl-nav .owl-prev, .owl-nav .owl-next {
         background: rgba(255, 255, 255, 0.4) !important;
+        background-color: #bb3571 !important;
     }
     .blog-slider .owl-nav .owl-prev{
         right: 0;
@@ -2892,6 +2894,7 @@ footer p{
     }
     .section-block {
         padding: 60px 0;
+        background-color: #ededed;
     }
     .section-header {
         margin-bottom: 60px;

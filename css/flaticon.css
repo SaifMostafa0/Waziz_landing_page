@@ -255,8 +255,8 @@ margin-left: 20px;
 .flaticon-notepad-1:before { content: "\f1df"; }
 .flaticon-notepad-2:before { content: "\f1e0"; }
 .flaticon-notification:before { content: "\f1e1"; }
-.flaticon-paper-plane:before { content: "\f1e2"; }
-.flaticon-paper-plane-1:before { content: "\f1e3"; }
+.flaticon-paper-plane:before { content: "\f1e2"; color: #bb3571; }
+.flaticon-paper-plane-1:before { content: "\f1e3"; color: #bb3571; }
 .flaticon-pause:before { content: "\f1e4"; }
 .flaticon-pause-1:before { content: "\f1e5"; }
 .flaticon-percent:before { content: "\f1e6"; }
