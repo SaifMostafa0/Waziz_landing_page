@@ -65,6 +65,9 @@ Version: 1.0
 /* ============================================================================= 
 #2. Global css
 ============================================================================= */
+html {
+    scroll-behavior: smooth;
+}
 
 * {
     margin: 0;
@@ -85,6 +88,7 @@ h5,
 h6 {
     line-height: 1.4;
     font-weight: 600;
+    font-size: 35px;
     color: #333;
 }
 a{
@@ -308,7 +312,7 @@ ol {
     padding-right: 10px;
     padding-left: 10px;
     margin-bottom: 20px;
-    font-size: 13px;
+    font-size: 17.5px;
 }
 .form-control:focus {
     outline: 0;
@@ -484,7 +488,7 @@ ul.list-checked li i {
     transition: all .2s ease 0s;
     padding: 0;
     display: inline-block;
-    font-size: 20px;
+    font-size: 25px;
 }
 .navbar-nav .dropdown-menu{
     box-shadow: 0 15px 30px rgba(22,28,45,.15);
@@ -2075,7 +2079,7 @@ footer p{
     margin-bottom: 40px;
 }
 #contact .section-header-style2 h2 {
-    font-size: 24px;
+    font-size: 35px;
     font-weight: 500;
 }
 #contact .section-header-style2 p{
