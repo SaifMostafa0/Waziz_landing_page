@@ -3042,4 +3042,31 @@ footer p{
         padding: 10px 17px;
         font-size: 14px;
     }
+    #logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 255px;
+        height: 207;
+    }
+}
+
+@media(max-width: 1200px) {
+    #logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 465px;
+        height: 378px;
+    }    
+}
+
+@media(min-width: 1201px) {
+    #logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 555px;
+        height: 450px;
+    }    
 }
