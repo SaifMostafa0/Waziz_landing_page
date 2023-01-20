@@ -724,6 +724,7 @@ ul.list-checked li i {
     -ms-flex-pack: center;
     justify-content: center;
     padding-right: 60px;
+    padding-left: 0px;
 }
 .wave-area {
     height: 5%;
@@ -2884,7 +2885,6 @@ footer p{
     }
     .owl-nav .owl-prev, .owl-nav .owl-next {
         background: rgba(255, 255, 255, 0.4) !important;
-        background-color: #bb3571 !important;
     }
     .blog-slider .owl-nav .owl-prev{
         right: 0;
