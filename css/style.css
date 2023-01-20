@@ -432,7 +432,7 @@ ul.list-checked li i {
 }
 #preloader-circle span {
     position:absolute;
-    border: 8px solid rgba(144, 30, 193, 0.8);
+    border: 8px solid #bb3571;
     border-top: 8px solid transparent;
     border-radius:999px;
 }
