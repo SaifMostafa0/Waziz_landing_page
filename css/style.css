@@ -139,6 +139,7 @@ ol {
 ============================================================================= */
 .section-block{
     padding: 0px 0;
+    background-color: #ededed;
 }
 .section-header{
     margin-bottom: 80px;
