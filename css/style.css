@@ -3050,20 +3050,23 @@ footer p{
     }
 }
 
-@media(max-width: 1200px) {
+@media(max-width: 980px) {
     #logo {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        
+        width: 300px;
     }    
 }
 
-@media(min-width: 1201px) {
+@media(min-width: 980px) {
     #logo {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        
+        width: 508px;
     }    
+    #img-map-big {
+        display: none;
+    }
 }

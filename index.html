@@ -48,7 +48,7 @@
             <div class="container">
                 <br>
                 <img id="logo" src="images\Waziz\WebLandingPage.png" alt="Waziz" usemap="#image-map">
-                <map name="image-map">
+                <map id="img-map-big" name="image-map">
                     <area target="_blank" alt="" title="" href="https://www.twitter.com" coords="7,333,131,407" shape="rect">
                     <area target="_blank" alt="" title="" href="https://www.instagram.com" coords="131,333,252,404" shape="rect">
                     <area target="_blank" alt="" title="" href="https://www.facebook.com" coords="255,333,376,407" shape="rect">
@@ -149,5 +149,9 @@
         <script src="js/scrollIt.min.js"></script>
         <!-- Main Script -->
         <script src="js/script.js"></script>
+        <script src="js\ImageMapResize.min.js"></script>
+        <script>
+            imageMapResize("#img-map-big");
+        </script>
     </body>
 </html>
