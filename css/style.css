@@ -2426,7 +2426,7 @@ header.card-header {
         margin-left: 5px;
         width: 160px;
     }
-    /*.app-button a {
+    .app-button a {
         padding: 5px 10px;
     }
     .apple-button .slider-button-icon i {
@@ -2451,7 +2451,7 @@ header.card-header {
     }
     .blog-item {
         margin: 20px 0;
-    }*/
+    }
     .section-block {
         padding: 60px 0;
     }
