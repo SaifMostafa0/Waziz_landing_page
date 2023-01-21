@@ -1014,7 +1014,7 @@ ul.list-checked li i {
 .feature-block {
     margin-bottom: 30px;
     text-align: center;
-    padding: 20px;
+    padding: 0px;
     border-radius: 10px;
 }
 .feature-icon {
