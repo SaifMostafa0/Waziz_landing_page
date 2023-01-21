@@ -3046,8 +3046,7 @@ footer p{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 255px;
-        height: 207;
+        
     }
 }
 
@@ -3056,8 +3055,7 @@ footer p{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 465px;
-        height: 378px;
+        
     }    
 }
 
@@ -3066,7 +3064,6 @@ footer p{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 555px;
-        height: 450px;
+        
     }    
 }
