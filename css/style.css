@@ -1494,7 +1494,6 @@ ul.list-checked li i {
     -webkit-animation: spin2 2s infinite alternate;
     animation: spin2 2s infinite alternate;
 }
-
 /*============ keyframes animation  =============*/
 @-webkit-keyframes pulse {
     0% {
@@ -1679,7 +1678,6 @@ ul.list-checked li i {
     margin-bottom: 25px;
 }
 .contact-block h4 {
-    
     border-bottom: 1px solid #eee;
     padding-bottom: 10px;
     margin-bottom: 15px;
